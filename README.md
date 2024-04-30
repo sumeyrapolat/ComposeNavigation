@@ -11,10 +11,9 @@ Uygulamayı yerel olarak çalıştırmak için Android Studio'da projeyi açın 
 - `NavController.navigate` fonksiyonu ile ekranlar arası geçişler yapılmıştır.
 - Ekran B'ye geçiş yaparken bir parametre iletilir.
 
-## **Screen A**
-<img src="app/src/main/res/drawable/screen_a" alt="Uygulamanın UI tasarımı" width="150" height="300">
+## **Screen A & Screen B**
+<img src="app/src/main/res/drawable/screen_a" alt="Uygulamanın UI tasarımı" width="150" height="300" style="float:left; margin-right:10px;">
+<img src="app/src/main/res/drawable/screen_b" alt="Uygulamanın UI tasarımı" width="150" height="300" style="float:left;">
 
-## **Screen B**
-<img src="app/src/main/res/drawable/screen_b.png" alt="Uygulamanın UI tasarımı" width="150" height="300">
 
 
