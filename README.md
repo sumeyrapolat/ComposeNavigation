@@ -12,7 +12,9 @@ Uygulamayı yerel olarak çalıştırmak için Android Studio'da projeyi açın 
 - Ekran B'ye geçiş yaparken bir parametre iletilir.
 
 ## **Ekran Görüntüleri**
+
 <img src="app/src/main/res/drawable/screen_a" alt="Uygulamanın UI Screen A tasarımı" width="150" height="300" style="float:left; margin-right:10px;">
+
 <img src="app/src/main/res/drawable/screen_b" alt="Uygulamanın UI Screen B tasarımı" width="150" height="300" style="float:left;">
 
 
